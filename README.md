@@ -1,2 +1,2 @@
-# MIchael-JTG
+# Michael-JTG
 Mi segundo repositorio de GIT 
